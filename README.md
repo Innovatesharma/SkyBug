@@ -1,9 +1,9 @@
 # SkyBug
-it's a Java project that implements a number guessing game allowing multiple rounds with a scoring system.
-# SkyBug - Number Guessing Game
+it's a Java project that implements a number game allowing multiple rounds with a scoring system.
+# SkyBug - Number Game
 
 ## Overview
-The "SkyBug - Number Guessing Game" project is a Java-based game that allows users to guess a randomly generated number within a specified range. It provides an interactive and engaging experience where players attempt to guess the correct number while receiving feedback on each guess.
+The "SkyBug - Number Game" project is a Java-based game that allows users to guess a randomly generated number within a specified range. It provides an interactive and engaging experience where players attempt to guess the correct number while receiving feedback on each guess.
 
 ## Instructions
 1. **Generating a Random Number:** The game will generate a random number within a specified range, such as 1 to 100.
